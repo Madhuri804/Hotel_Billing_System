@@ -1,0 +1,10 @@
+#Tea & Coffee
+Tea 10/-
+Coffee chennai 20/-
+Coffee kerala (Black) 50/-
+Coffee delhi 30/-
+Ice Tea (Lemon) 30/-
+Coffee cold 40/-
+Espresso (Black) 50/-
+Cold-Coffee (Frappe) 60/-
+
